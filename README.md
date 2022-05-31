@@ -1,4 +1,4 @@
-# Tech task (Frontend dev role) // Alex Sylvain Luenga;
+# Tech task (Frontend dev role) // Alex Sylvain Luenga; 
 
 ## Task description
 
